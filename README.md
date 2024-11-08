@@ -38,9 +38,9 @@ technical_background:
 currently_learning: ["UDD Bootcamp, Full Stack Web Development"]
 hobbies: ["Music", "Cinema", "Rock", "Meal"]
 ```
-# Badges from Lifelong Learning UDD
+# 🏆 Badges from Lifelong Learning UDD
 <div align="center">
-<img src=./img/cost-system-algorithm-pro-sobresaliente.png>
+<a href=https://www.credly.com/badges/d3beeab1-9b75-4eb2-a8ab-fff4496e4bb4/public_url"> <img src=./img/cost-system-algorithm-pro-sobresaliente.png></a>
 <img src=./img/javascript-voting-system-sobresaliente.png>
 <img src=./img/business-landing-page-sobresaliente.png>
 
