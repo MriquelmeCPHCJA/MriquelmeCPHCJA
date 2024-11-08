@@ -20,6 +20,7 @@ fields_of_interests:
     "Network Management",
     "IT Project Management",
     "Linux World",
+    "FullStack Web Development"
   ]
 
 technical_background:
@@ -31,16 +32,23 @@ technical_background:
     "Design and Installation of Data Networks",
     "Structured Cabling",
     "Optical fiber",
+    "FullStack Web Development"
   ]
   
 currently_learning: ["UDD Bootcamp, Full Stack Web Development"]
 hobbies: ["Music", "Cinema", "Rock", "Meal"]
 ```
+# Badges from Lifelong Learning UDD
+<div align="center">
+<img src=./img/cost-system-algorithm-pro-sobresaliente.png>
+<img src=./img/javascript-voting-system-sobresaliente.png>
+<img src=./img/business-landing-page-sobresaliente.png>
 
-  
+</div>
 
-  ## ⚡ Some technologies I use:
-  <img src="https://img.shields.io/badge/LINUX-E34F26?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/WINDOWS-1572B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
+## ⚡ Some technologies I use:
+<img src="https://img.shields.io/badge/LINUX-E34F26?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/WINDOWS-1572B6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
